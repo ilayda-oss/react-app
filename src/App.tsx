@@ -1,8 +1,8 @@
-import Message from './Message'; // 'Message' bileşenini içe aktarın
+import ListGroup from "./components/ListGroup";// 'Message' bileşenini içe aktarın
 
 
 function App(){
-  return <div><Message/></div>
+  return <div><ListGroup/></div>
 }
 
 export default App;
